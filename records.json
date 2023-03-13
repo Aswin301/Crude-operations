@@ -1,0 +1,25 @@
+[
+{
+    "hospital":"KIMS",
+    "patname":10000,
+    "location":"Trivandrum"
+  },
+
+  {
+    "hospital":"Cosmo",
+    "patname":10500,
+    "location":"Trivandrum"
+  },
+
+  {
+    "hospital":"Aster Medcity",
+    "patname":30000,
+    "location":"Kochi"
+  },
+
+  {
+    "hospital":"St.Teresa",
+    "patname":1000,
+    "location":"Alapuzha"
+  }
+]
